@@ -17,7 +17,7 @@ const HeroSection = () => {
                             </div>
                             <div className="flex flex-col gap-2 sm:gap-3 items-center text-center xs:items-start">
                                 <h1>Fatima Javadzade</h1>
-                                <p className="text-violet-700 font-normal">Frontend Developer</p>
+                                <p className="text-violet-700 font-normal">Fullstack Developer</p>
                                 <div className="flex items-center gap-2">
                                     <Image src={"/images/icon/map-icon.svg"} alt="map-icon" width={20} height={20} />
                                     <p className="text-primary">Baku, Azerbaijan</p>

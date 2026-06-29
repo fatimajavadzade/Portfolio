@@ -17,8 +17,8 @@ const experienceData = [
 
 const educationData = [
     {
-        date: "Sep 2025 - Jan 2026",
-        title: "AI - Powered Programming",
+        date: "Sep 2025 - Feb 2026",
+        title: "Software Development",
         subtitle: "CodeAcademy"
     },
     {
@@ -35,6 +35,9 @@ const educationData = [
 
 
 const projectOverview = {
+    liveProjects : [
+        {name: "notetech.az", url: "https://notetech.az/"}
+    ],
     frontProjects: [
         { name: "Puma Clone", url: "https://github.com/fatimajavadzade/puma" },
         { name: "Neptun Clone", url: "https://github.com/fatimajavadzade/NeptunFinal" },
